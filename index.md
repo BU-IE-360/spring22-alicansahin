@@ -4,4 +4,4 @@
 ### Homework2
 
 
-[link] (https://moodle.boun.edu.tr/course/view.php?id=52970)
+[link](https://moodle.boun.edu.tr/course/view.php?id=52970)
