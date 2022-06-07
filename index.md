@@ -13,3 +13,7 @@
 
 [Here](IE_360_HW2.ipynb) is the ipynb file
 
+
+### PROJECT
+[Here](IE_36O_Project_Report.html) is the project report.
+[Here](Project5.ipynb) is the code file.
